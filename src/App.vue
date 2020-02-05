@@ -36,8 +36,6 @@ import DataGrid from './components/DataGrid';
 
 const DATA = require('@/mocks/data-grid.json');
 
-console.log(DATA);
-
 export default {
   name: 'app',
 

@@ -33,10 +33,6 @@ const DataGridColumn = {
     }
 
     return h(ElTableColumn, params, children);
-  },
-
-  components: {
-    ElTableColumn
   }
 };
 
