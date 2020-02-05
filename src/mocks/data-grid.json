@@ -1,0 +1,1669 @@
+{
+    "Total": 3086,
+    "Items": [
+        {
+            "Id": 1005358.0,
+            "Name": "ДПР-3-7340/19",
+            "Description": "Доведение титула 62110",
+            "RegDate": "2019-12-11T00:00:00",
+            "StartDate": null,
+            "EndDate": null,
+            "CreateDate": "2019-12-11T09:35:12",
+            "Status": {
+                "Id": 2.0,
+                "Name": "Утвержден"
+            },
+            "Document": {
+                "DocumentType": null,
+                "DocNumber": "1323-ПП",
+                "DocDate": "2019-10-15",
+                "RegulatoryDocType": {
+                    "ShortName": null,
+                    "Id": 1.0,
+                    "Name": "Постановление Правительства Москвы",
+                    "EntityId": 1.0,
+                    "CreateDate": "2014-11-14T21:25:15",
+                    "DeleteDate": null
+                },
+                "Notes": null,
+                "DocOrg": null,
+                "DocumentStatusId": null,
+                "DocStartDate": null,
+                "DocEndDate": null,
+                "DocOrgApprover": null,
+                "DocFiles": [],
+                "Id": 753421.0,
+                "Name": "Об Адресной инвестиционной программе города Москвы на 2019-2022 годы",
+                "EntityId": 753421.0,
+                "CreateDate": "2019-10-16T09:34:25",
+                "DeleteDate": null
+            },
+            "OrganizationIn": {
+                "Id": 1.0,
+                "ShortName": "Департамент экономической политики и развития города Москвы",
+                "Name": "Департамент экономической политики и развития города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "OrganizationOut": {
+                "Id": 68991.0,
+                "ShortName": "Департамент финансов",
+                "Name": "Департамент финансов",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "User": {
+                "Id": 500426.0,
+                "Surname": "Митрофанов",
+                "Firstname": "Алексей",
+                "Patronymic": "Михайлович",
+                "FIO": "Митрофанов А.М.",
+                "FullFIO": "Митрофанов Алексей М",
+                "Organization": {
+                    "Id": 1.0,
+                    "ShortName": "Департамент экономической политики и развития города Москвы",
+                    "Name": "Департамент экономической политики и развития города Москвы",
+                    "Inn": null,
+                    "Kpp": null,
+                    "ParentId": null,
+                    "UBP": null,
+                    "EntityId": null
+                }
+            },
+            "Titles": [],
+            "DocNumber": "1323-ПП",
+            "RegulatoryDocTypeName": "Постановление Правительства Москвы",
+            "DocumentId": 753421.0,
+            "AwaitTitlesCount": 1,
+            "DocFiles": [
+                {
+                    "Id": 503126.0,
+                    "Name": null,
+                    "FileLink": "Letters\\62c446e5-46a6-48bc-ad5f-1e78c1006e9c\\23.10.2019_ДПР-3-7340_19_Сибрин_А.Э._Зяббарова_Е.Ю. (1).pdf",
+                    "DocumentId": null,
+                    "ContractId": null,
+                    "EntityId": null,
+                    "CreateDate": null,
+                    "DeleteDate": null,
+                    "Creator": null,
+                    "LetterId": 1005358.0,
+                    "Document": null,
+                    "Contract": null,
+                    "Letter": null
+                }
+            ],
+            "NameWithRegDate": "ДПР-3-7340/19 от 11.12.2019",
+            "HasSign": false
+        },
+        {
+            "Id": 1005354.0,
+            "Name": "ДС-15-1/19-482",
+            "Description": "Снятие 0,2 на содержание сетей Социалка",
+            "RegDate": "2019-12-10T00:00:00",
+            "StartDate": null,
+            "EndDate": null,
+            "CreateDate": "2019-12-10T15:36:58",
+            "Status": {
+                "Id": 1.0,
+                "Name": "Находится на рассмотрении"
+            },
+            "Document": null,
+            "OrganizationIn": {
+                "Id": 70728.0,
+                "ShortName": "Департамент строительства города Москвы",
+                "Name": "Департамент строительства города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "OrganizationOut": {
+                "Id": 1.0,
+                "ShortName": "Департамент экономической политики и развития города Москвы",
+                "Name": "Департамент экономической политики и развития города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "User": {
+                "Id": 500516.0,
+                "Surname": "Земляной",
+                "Firstname": "Д",
+                "Patronymic": "В",
+                "FIO": "Земляной Д.В.",
+                "FullFIO": "Земляной Д В",
+                "Organization": {
+                    "Id": 70728.0,
+                    "ShortName": "Департамент строительства города Москвы",
+                    "Name": "Департамент строительства города Москвы",
+                    "Inn": null,
+                    "Kpp": null,
+                    "ParentId": null,
+                    "UBP": null,
+                    "EntityId": null
+                }
+            },
+            "Titles": [],
+            "DocNumber": null,
+            "RegulatoryDocTypeName": null,
+            "DocumentId": null,
+            "AwaitTitlesCount": 2,
+            "DocFiles": [
+                {
+                    "Id": 503124.0,
+                    "Name": null,
+                    "FileLink": "Letters\\f4e73bf7-3003-4f10-a2ba-1eb8608d76c1\\10.12.2019_ДС-15-1_19-482_Загрутдинов_Р.Р._Сибрин_А.Э..pdf",
+                    "DocumentId": null,
+                    "ContractId": null,
+                    "EntityId": null,
+                    "CreateDate": null,
+                    "DeleteDate": null,
+                    "Creator": null,
+                    "LetterId": 1005354.0,
+                    "Document": null,
+                    "Contract": null,
+                    "Letter": null
+                }
+            ],
+            "NameWithRegDate": "ДС-15-1/19-482 от 10.12.2019",
+            "HasSign": false
+        },
+        {
+            "Id": 1005357.0,
+            "Name": "ДРНТ-2-7981/9",
+            "Description": null,
+            "RegDate": "2019-12-10T00:00:00",
+            "StartDate": null,
+            "EndDate": null,
+            "CreateDate": "2019-12-10T17:35:21",
+            "Status": {
+                "Id": 1.0,
+                "Name": "Находится на рассмотрении"
+            },
+            "Document": null,
+            "OrganizationIn": {
+                "Id": 81596.0,
+                "ShortName": "Департамент развития новых территорий города Москвы",
+                "Name": "Департамент развития новых территорий города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "OrganizationOut": {
+                "Id": 1.0,
+                "ShortName": "Департамент экономической политики и развития города Москвы",
+                "Name": "Департамент экономической политики и развития города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "User": {
+                "Id": 500777.0,
+                "Surname": "Лопатина",
+                "Firstname": "Елизавета",
+                "Patronymic": "Александровна",
+                "FIO": "Лопатина Е.А.",
+                "FullFIO": "Лопатина Елизавета А",
+                "Organization": {
+                    "Id": 81596.0,
+                    "ShortName": "Департамент развития новых территорий города Москвы",
+                    "Name": "Департамент развития новых территорий города Москвы",
+                    "Inn": null,
+                    "Kpp": null,
+                    "ParentId": null,
+                    "UBP": null,
+                    "EntityId": null
+                }
+            },
+            "Titles": [],
+            "DocNumber": null,
+            "RegulatoryDocTypeName": null,
+            "DocumentId": null,
+            "AwaitTitlesCount": 2,
+            "DocFiles": null,
+            "NameWithRegDate": "ДРНТ-2-7981/9 от 10.12.2019",
+            "HasSign": false
+        },
+        {
+            "Id": 1005349.0,
+            "Name": "ДПР-3-9536/19",
+            "Description": "О внесении изменений в АИП по ГП РКИИиЭ, на основании приказа ДС.",
+            "RegDate": "2019-12-09T00:00:00",
+            "StartDate": null,
+            "EndDate": null,
+            "CreateDate": "2019-12-09T18:15:25",
+            "Status": {
+                "Id": 2.0,
+                "Name": "Утвержден"
+            },
+            "Document": {
+                "DocumentType": null,
+                "DocNumber": "ДС-15-1/19-470",
+                "DocDate": "2019-12-04",
+                "RegulatoryDocType": {
+                    "ShortName": "GCO",
+                    "Id": 18.0,
+                    "Name": "Предложение государственного заказчика",
+                    "EntityId": 18.0,
+                    "CreateDate": "2014-11-14T21:25:15",
+                    "DeleteDate": null
+                },
+                "Notes": null,
+                "DocOrg": null,
+                "DocumentStatusId": null,
+                "DocStartDate": null,
+                "DocEndDate": null,
+                "DocOrgApprover": null,
+                "DocFiles": [],
+                "Id": 753770.0,
+                "Name": "О направлении изменений в Адресную инвестиционную программу города Москвы по Государственной програм",
+                "EntityId": 753770.0,
+                "CreateDate": null,
+                "DeleteDate": null
+            },
+            "OrganizationIn": {
+                "Id": 1.0,
+                "ShortName": "Департамент экономической политики и развития города Москвы",
+                "Name": "Департамент экономической политики и развития города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "OrganizationOut": {
+                "Id": 68991.0,
+                "ShortName": "Департамент финансов",
+                "Name": "Департамент финансов",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "User": {
+                "Id": 500838.0,
+                "Surname": "Лыченкова",
+                "Firstname": "Евгения",
+                "Patronymic": "Николаевна",
+                "FIO": "Лыченкова Е.Н.",
+                "FullFIO": "Лыченкова Евгения Н",
+                "Organization": {
+                    "Id": 1.0,
+                    "ShortName": "Департамент экономической политики и развития города Москвы",
+                    "Name": "Департамент экономической политики и развития города Москвы",
+                    "Inn": null,
+                    "Kpp": null,
+                    "ParentId": null,
+                    "UBP": null,
+                    "EntityId": null
+                }
+            },
+            "Titles": [],
+            "DocNumber": "ДС-15-1/19-470",
+            "RegulatoryDocTypeName": "Предложение государственного заказчика",
+            "DocumentId": 753770.0,
+            "AwaitTitlesCount": 4,
+            "DocFiles": [
+                {
+                    "Id": 503119.0,
+                    "Name": null,
+                    "FileLink": "Letters\\6166c4f7-cce6-4a37-8498-04b5023be355\\Письмо ДФ ДС.docx",
+                    "DocumentId": null,
+                    "ContractId": null,
+                    "EntityId": null,
+                    "CreateDate": null,
+                    "DeleteDate": null,
+                    "Creator": null,
+                    "LetterId": 1005349.0,
+                    "Document": null,
+                    "Contract": null,
+                    "Letter": null
+                }
+            ],
+            "NameWithRegDate": "ДПР-3-9536/19 от 09.12.2019",
+            "HasSign": false
+        },
+        {
+            "Id": 1005348.0,
+            "Name": "дпр-3-9550/19",
+            "Description": "Изменения по ГП «Развитие транспортной системы», подпрограмме «Автомобильные дороги и улично-дорожная сеть» в части выделения в 2019 году бюджетных ассигнований по объектам, расчеты по которым не завершены",
+            "RegDate": "2019-12-09T00:00:00",
+            "StartDate": null,
+            "EndDate": null,
+            "CreateDate": "2019-12-09T11:57:52",
+            "Status": {
+                "Id": 2.0,
+                "Name": "Утвержден"
+            },
+            "Document": {
+                "DocumentType": null,
+                "DocNumber": "ДС-15-1/19-472",
+                "DocDate": "2019-12-05",
+                "RegulatoryDocType": {
+                    "ShortName": "GCO",
+                    "Id": 18.0,
+                    "Name": "Предложение государственного заказчика",
+                    "EntityId": 18.0,
+                    "CreateDate": "2014-11-14T21:25:15",
+                    "DeleteDate": null
+                },
+                "Notes": null,
+                "DocOrg": null,
+                "DocumentStatusId": null,
+                "DocStartDate": null,
+                "DocEndDate": null,
+                "DocOrgApprover": null,
+                "DocFiles": [],
+                "Id": 753774.0,
+                "Name": "приказ дороги",
+                "EntityId": 753774.0,
+                "CreateDate": null,
+                "DeleteDate": null
+            },
+            "OrganizationIn": {
+                "Id": 1.0,
+                "ShortName": "Департамент экономической политики и развития города Москвы",
+                "Name": "Департамент экономической политики и развития города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "OrganizationOut": {
+                "Id": 68991.0,
+                "ShortName": "Департамент финансов",
+                "Name": "Департамент финансов",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "User": {
+                "Id": 500432.0,
+                "Surname": "Мякшев",
+                "Firstname": "Михаил",
+                "Patronymic": "Васильевич",
+                "FIO": "Мякшев М.В.",
+                "FullFIO": "Мякшев Михаил В",
+                "Organization": {
+                    "Id": 1.0,
+                    "ShortName": "Департамент экономической политики и развития города Москвы",
+                    "Name": "Департамент экономической политики и развития города Москвы",
+                    "Inn": null,
+                    "Kpp": null,
+                    "ParentId": null,
+                    "UBP": null,
+                    "EntityId": null
+                }
+            },
+            "Titles": [],
+            "DocNumber": "ДС-15-1/19-472",
+            "RegulatoryDocTypeName": "Предложение государственного заказчика",
+            "DocumentId": 753774.0,
+            "AwaitTitlesCount": 3,
+            "DocFiles": null,
+            "NameWithRegDate": "дпр-3-9550/19 от 09.12.2019",
+            "HasSign": false
+        },
+        {
+            "Id": 1005344.0,
+            "Name": "ДПР-3-9518/19",
+            "Description": "Изменения по титулам Фонда реновации",
+            "RegDate": "2019-12-06T00:00:00",
+            "StartDate": null,
+            "EndDate": null,
+            "CreateDate": "2019-12-06T14:27:11",
+            "Status": {
+                "Id": 2.0,
+                "Name": "Утвержден"
+            },
+            "Document": {
+                "DocumentType": null,
+                "DocNumber": "ДС-15-1/19-466",
+                "DocDate": "2019-12-04",
+                "RegulatoryDocType": {
+                    "ShortName": "GCO",
+                    "Id": 18.0,
+                    "Name": "Предложение государственного заказчика",
+                    "EntityId": 18.0,
+                    "CreateDate": "2014-11-14T21:25:15",
+                    "DeleteDate": null
+                },
+                "Notes": null,
+                "DocOrg": null,
+                "DocumentStatusId": null,
+                "DocStartDate": null,
+                "DocEndDate": null,
+                "DocOrgApprover": null,
+                "DocFiles": [],
+                "Id": 753765.0,
+                "Name": "Изменения по фонду",
+                "EntityId": 753765.0,
+                "CreateDate": null,
+                "DeleteDate": null
+            },
+            "OrganizationIn": {
+                "Id": 1.0,
+                "ShortName": "Департамент экономической политики и развития города Москвы",
+                "Name": "Департамент экономической политики и развития города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "OrganizationOut": {
+                "Id": 68991.0,
+                "ShortName": "Департамент финансов",
+                "Name": "Департамент финансов",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "User": {
+                "Id": 500417.0,
+                "Surname": "Горячева",
+                "Firstname": "Александра",
+                "Patronymic": "Владимировна",
+                "FIO": "Горячева А.В.",
+                "FullFIO": "Горячева Александра В",
+                "Organization": {
+                    "Id": 1.0,
+                    "ShortName": "Департамент экономической политики и развития города Москвы",
+                    "Name": "Департамент экономической политики и развития города Москвы",
+                    "Inn": null,
+                    "Kpp": null,
+                    "ParentId": null,
+                    "UBP": null,
+                    "EntityId": null
+                }
+            },
+            "Titles": [],
+            "DocNumber": "ДС-15-1/19-466",
+            "RegulatoryDocTypeName": "Предложение государственного заказчика",
+            "DocumentId": 753765.0,
+            "AwaitTitlesCount": 3,
+            "DocFiles": [
+                {
+                    "Id": 503116.0,
+                    "Name": null,
+                    "FileLink": "Letters\\da79fd11-92e0-489e-abc9-3cd3c07abe3a\\06.12.2019_ДПР-3-9518_19_Сибрин_А.Э._Зяббарова_Е.Ю..pdf",
+                    "DocumentId": null,
+                    "ContractId": null,
+                    "EntityId": null,
+                    "CreateDate": null,
+                    "DeleteDate": null,
+                    "Creator": null,
+                    "LetterId": 1005344.0,
+                    "Document": null,
+                    "Contract": null,
+                    "Letter": null
+                }
+            ],
+            "NameWithRegDate": "ДПР-3-9518/19 от 06.12.2019",
+            "HasSign": false
+        },
+        {
+            "Id": 1005343.0,
+            "Name": "ДПР-3-7735/19",
+            "Description": "повторное доведение титульного списка  №703036 (изменение КОСГУ)",
+            "RegDate": "2019-12-06T00:00:00",
+            "StartDate": null,
+            "EndDate": null,
+            "CreateDate": "2019-12-06T10:45:15",
+            "Status": {
+                "Id": 3.0,
+                "Name": "Требует доработки"
+            },
+            "Document": null,
+            "OrganizationIn": {
+                "Id": 1.0,
+                "ShortName": "Департамент экономической политики и развития города Москвы",
+                "Name": "Департамент экономической политики и развития города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "OrganizationOut": {
+                "Id": 68991.0,
+                "ShortName": "Департамент финансов",
+                "Name": "Департамент финансов",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "User": {
+                "Id": 500406.0,
+                "Surname": "Баранова",
+                "Firstname": "Елена",
+                "Patronymic": "Николаевна",
+                "FIO": "Баранова Е.Н.",
+                "FullFIO": "Баранова Елена Н",
+                "Organization": {
+                    "Id": 1.0,
+                    "ShortName": "Департамент экономической политики и развития города Москвы",
+                    "Name": "Департамент экономической политики и развития города Москвы",
+                    "Inn": null,
+                    "Kpp": null,
+                    "ParentId": null,
+                    "UBP": null,
+                    "EntityId": null
+                }
+            },
+            "Titles": [],
+            "DocNumber": null,
+            "RegulatoryDocTypeName": null,
+            "DocumentId": null,
+            "AwaitTitlesCount": 1,
+            "DocFiles": null,
+            "NameWithRegDate": "ДПР-3-7735/19 от 06.12.2019",
+            "HasSign": false
+        },
+        {
+            "Id": 1005345.0,
+            "Name": "ДПР-3-9526/19",
+            "Description": "Изменения по титулу Фонда реновации",
+            "RegDate": "2019-12-06T00:00:00",
+            "StartDate": null,
+            "EndDate": null,
+            "CreateDate": "2019-12-06T14:31:16",
+            "Status": {
+                "Id": 2.0,
+                "Name": "Утвержден"
+            },
+            "Document": {
+                "DocumentType": null,
+                "DocNumber": "ДС-15-1/19-468",
+                "DocDate": "2019-12-04",
+                "RegulatoryDocType": {
+                    "ShortName": "GCO",
+                    "Id": 18.0,
+                    "Name": "Предложение государственного заказчика",
+                    "EntityId": 18.0,
+                    "CreateDate": "2014-11-14T21:25:15",
+                    "DeleteDate": null
+                },
+                "Notes": null,
+                "DocOrg": null,
+                "DocumentStatusId": null,
+                "DocStartDate": null,
+                "DocEndDate": null,
+                "DocOrgApprover": null,
+                "DocFiles": [],
+                "Id": 753768.0,
+                "Name": "Изменение по фонду",
+                "EntityId": 753768.0,
+                "CreateDate": null,
+                "DeleteDate": null
+            },
+            "OrganizationIn": {
+                "Id": 1.0,
+                "ShortName": "Департамент экономической политики и развития города Москвы",
+                "Name": "Департамент экономической политики и развития города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "OrganizationOut": {
+                "Id": 68991.0,
+                "ShortName": "Департамент финансов",
+                "Name": "Департамент финансов",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "User": {
+                "Id": 500417.0,
+                "Surname": "Горячева",
+                "Firstname": "Александра",
+                "Patronymic": "Владимировна",
+                "FIO": "Горячева А.В.",
+                "FullFIO": "Горячева Александра В",
+                "Organization": {
+                    "Id": 1.0,
+                    "ShortName": "Департамент экономической политики и развития города Москвы",
+                    "Name": "Департамент экономической политики и развития города Москвы",
+                    "Inn": null,
+                    "Kpp": null,
+                    "ParentId": null,
+                    "UBP": null,
+                    "EntityId": null
+                }
+            },
+            "Titles": [],
+            "DocNumber": "ДС-15-1/19-468",
+            "RegulatoryDocTypeName": "Предложение государственного заказчика",
+            "DocumentId": 753768.0,
+            "AwaitTitlesCount": 1,
+            "DocFiles": [
+                {
+                    "Id": 503117.0,
+                    "Name": null,
+                    "FileLink": "Letters\\fc3452ed-418a-4977-a987-24d241fa794b\\06.12.2019_ДПР-3-9526_19_Сибрин_А.Э._Зяббарова_Е.Ю..pdf",
+                    "DocumentId": null,
+                    "ContractId": null,
+                    "EntityId": null,
+                    "CreateDate": null,
+                    "DeleteDate": null,
+                    "Creator": null,
+                    "LetterId": 1005345.0,
+                    "Document": null,
+                    "Contract": null,
+                    "Letter": null
+                }
+            ],
+            "NameWithRegDate": "ДПР-3-9526/19 от 06.12.2019",
+            "HasSign": false
+        },
+        {
+            "Id": 1005342.0,
+            "Name": "дпр-3-7725/19",
+            "Description": "доведение титульных списков по ГП \"Столичное здравоохранение\" в соответствии с ППМ от 15.10.2019 №1323-ПП (ГРБС - ДЗМ)",
+            "RegDate": "2019-12-05T00:00:00",
+            "StartDate": null,
+            "EndDate": null,
+            "CreateDate": "2019-12-05T18:01:12",
+            "Status": {
+                "Id": 2.0,
+                "Name": "Утвержден"
+            },
+            "Document": {
+                "DocumentType": null,
+                "DocNumber": "1323-ПП",
+                "DocDate": "2019-10-15",
+                "RegulatoryDocType": {
+                    "ShortName": null,
+                    "Id": 1.0,
+                    "Name": "Постановление Правительства Москвы",
+                    "EntityId": 1.0,
+                    "CreateDate": "2014-11-14T21:25:15",
+                    "DeleteDate": null
+                },
+                "Notes": null,
+                "DocOrg": null,
+                "DocumentStatusId": null,
+                "DocStartDate": null,
+                "DocEndDate": null,
+                "DocOrgApprover": null,
+                "DocFiles": [],
+                "Id": 753421.0,
+                "Name": "Об Адресной инвестиционной программе города Москвы на 2019-2022 годы",
+                "EntityId": 753421.0,
+                "CreateDate": "2019-10-16T09:34:25",
+                "DeleteDate": null
+            },
+            "OrganizationIn": {
+                "Id": 1.0,
+                "ShortName": "Департамент экономической политики и развития города Москвы",
+                "Name": "Департамент экономической политики и развития города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "OrganizationOut": {
+                "Id": 68991.0,
+                "ShortName": "Департамент финансов",
+                "Name": "Департамент финансов",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "User": {
+                "Id": 500408.0,
+                "Surname": "Ковальчук",
+                "Firstname": "Наталья",
+                "Patronymic": "Юрьевна",
+                "FIO": "Ковальчук Н.Ю.",
+                "FullFIO": "Ковальчук Наталья Ю",
+                "Organization": {
+                    "Id": 1.0,
+                    "ShortName": "Департамент экономической политики и развития города Москвы",
+                    "Name": "Департамент экономической политики и развития города Москвы",
+                    "Inn": null,
+                    "Kpp": null,
+                    "ParentId": null,
+                    "UBP": null,
+                    "EntityId": null
+                }
+            },
+            "Titles": [],
+            "DocNumber": "1323-ПП",
+            "RegulatoryDocTypeName": "Постановление Правительства Москвы",
+            "DocumentId": 753421.0,
+            "AwaitTitlesCount": 49,
+            "DocFiles": [
+                {
+                    "Id": 503115.0,
+                    "Name": null,
+                    "FileLink": "Letters\\4b8112bc-b660-478d-a5a2-46dadca07593\\05.12.2019_ДПР-3-7725_19_Сибрин_А.Э._Зяббарова_Е.Ю..pdf",
+                    "DocumentId": null,
+                    "ContractId": null,
+                    "EntityId": null,
+                    "CreateDate": null,
+                    "DeleteDate": null,
+                    "Creator": null,
+                    "LetterId": 1005342.0,
+                    "Document": null,
+                    "Contract": null,
+                    "Letter": null
+                }
+            ],
+            "NameWithRegDate": "дпр-3-7725/19 от 05.12.2019",
+            "HasSign": false
+        },
+        {
+            "Id": 1005337.0,
+            "Name": "ДПР-3-9266/19",
+            "Description": "Изменения в АИП на 2019-2022гг. под приказ ДРНТ от 27.11.2019 №343 по Государственной программе города Москвы «Развитие транспортной системы» по подпрограмме «Автомобильные дороги и улично-дорожная сеть» по форме титульных списков.",
+            "RegDate": "2019-12-05T00:00:00",
+            "StartDate": null,
+            "EndDate": null,
+            "CreateDate": "2019-12-05T08:15:56",
+            "Status": {
+                "Id": 2.0,
+                "Name": "Утвержден"
+            },
+            "Document": {
+                "DocumentType": null,
+                "DocNumber": "ДРНТ-2-7637/9",
+                "DocDate": "2019-11-28",
+                "RegulatoryDocType": {
+                    "ShortName": "GCO",
+                    "Id": 18.0,
+                    "Name": "Предложение государственного заказчика",
+                    "EntityId": 18.0,
+                    "CreateDate": "2014-11-14T21:25:15",
+                    "DeleteDate": null
+                },
+                "Notes": null,
+                "DocOrg": null,
+                "DocumentStatusId": null,
+                "DocStartDate": null,
+                "DocEndDate": null,
+                "DocOrgApprover": null,
+                "DocFiles": [],
+                "Id": 753728.0,
+                "Name": "Дороги приказ №343 от 27.11.2019",
+                "EntityId": 753728.0,
+                "CreateDate": null,
+                "DeleteDate": null
+            },
+            "OrganizationIn": {
+                "Id": 1.0,
+                "ShortName": "Департамент экономической политики и развития города Москвы",
+                "Name": "Департамент экономической политики и развития города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "OrganizationOut": {
+                "Id": 68991.0,
+                "ShortName": "Департамент финансов",
+                "Name": "Департамент финансов",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "User": {
+                "Id": 500978.0,
+                "Surname": "Корниенко",
+                "Firstname": "Татьяна",
+                "Patronymic": "Николаевна",
+                "FIO": "Корниенко Т.Н.",
+                "FullFIO": "Корниенко Татьяна Н",
+                "Organization": {
+                    "Id": 1.0,
+                    "ShortName": "Департамент экономической политики и развития города Москвы",
+                    "Name": "Департамент экономической политики и развития города Москвы",
+                    "Inn": null,
+                    "Kpp": null,
+                    "ParentId": null,
+                    "UBP": null,
+                    "EntityId": null
+                }
+            },
+            "Titles": [],
+            "DocNumber": "ДРНТ-2-7637/9",
+            "RegulatoryDocTypeName": "Предложение государственного заказчика",
+            "DocumentId": 753728.0,
+            "AwaitTitlesCount": 5,
+            "DocFiles": [
+                {
+                    "Id": 503112.0,
+                    "Name": null,
+                    "FileLink": "Letters\\2c1ee679-1afa-4069-ae33-b7253067e218\\Письмо ДФ.docx",
+                    "DocumentId": null,
+                    "ContractId": null,
+                    "EntityId": null,
+                    "CreateDate": null,
+                    "DeleteDate": null,
+                    "Creator": null,
+                    "LetterId": 1005337.0,
+                    "Document": null,
+                    "Contract": null,
+                    "Letter": null
+                }
+            ],
+            "NameWithRegDate": "ДПР-3-9266/19 от 05.12.2019",
+            "HasSign": false
+        },
+        {
+            "Id": 1005338.0,
+            "Name": "ДПР-3-9383/19",
+            "Description": "Изменения в АИП по ГП \"Градостроительная политика\" под приказ ДС от 02.12.19 № Пр-АИП-104/19",
+            "RegDate": "2019-12-05T00:00:00",
+            "StartDate": null,
+            "EndDate": null,
+            "CreateDate": "2019-12-05T10:03:25",
+            "Status": {
+                "Id": 1.0,
+                "Name": "Находится на рассмотрении"
+            },
+            "Document": {
+                "DocumentType": null,
+                "DocNumber": "ДС-15-1/19-463",
+                "DocDate": "2019-12-02",
+                "RegulatoryDocType": {
+                    "ShortName": "GCO",
+                    "Id": 18.0,
+                    "Name": "Предложение государственного заказчика",
+                    "EntityId": 18.0,
+                    "CreateDate": "2014-11-14T21:25:15",
+                    "DeleteDate": null
+                },
+                "Notes": null,
+                "DocOrg": null,
+                "DocumentStatusId": null,
+                "DocStartDate": null,
+                "DocEndDate": null,
+                "DocOrgApprover": null,
+                "DocFiles": [],
+                "Id": 753744.0,
+                "Name": "Изменения по ГП Град снятие -0,9 млн. руб. на текущие.",
+                "EntityId": 753744.0,
+                "CreateDate": null,
+                "DeleteDate": null
+            },
+            "OrganizationIn": {
+                "Id": 1.0,
+                "ShortName": "Департамент экономической политики и развития города Москвы",
+                "Name": "Департамент экономической политики и развития города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "OrganizationOut": {
+                "Id": 68991.0,
+                "ShortName": "Департамент финансов",
+                "Name": "Департамент финансов",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "User": {
+                "Id": 500406.0,
+                "Surname": "Баранова",
+                "Firstname": "Елена",
+                "Patronymic": "Николаевна",
+                "FIO": "Баранова Е.Н.",
+                "FullFIO": "Баранова Елена Н",
+                "Organization": {
+                    "Id": 1.0,
+                    "ShortName": "Департамент экономической политики и развития города Москвы",
+                    "Name": "Департамент экономической политики и развития города Москвы",
+                    "Inn": null,
+                    "Kpp": null,
+                    "ParentId": null,
+                    "UBP": null,
+                    "EntityId": null
+                }
+            },
+            "Titles": [],
+            "DocNumber": "ДС-15-1/19-463",
+            "RegulatoryDocTypeName": "Предложение государственного заказчика",
+            "DocumentId": 753744.0,
+            "AwaitTitlesCount": 1,
+            "DocFiles": null,
+            "NameWithRegDate": "ДПР-3-9383/19 от 05.12.2019",
+            "HasSign": false
+        },
+        {
+            "Id": 1005339.0,
+            "Name": "ДС-15-1/19-472",
+            "Description": "приказ дороги",
+            "RegDate": "2019-12-05T00:00:00",
+            "StartDate": null,
+            "EndDate": null,
+            "CreateDate": "2019-12-05T11:08:00",
+            "Status": {
+                "Id": 1.0,
+                "Name": "Находится на рассмотрении"
+            },
+            "Document": null,
+            "OrganizationIn": {
+                "Id": 70728.0,
+                "ShortName": "Департамент строительства города Москвы",
+                "Name": "Департамент строительства города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "OrganizationOut": {
+                "Id": 1.0,
+                "ShortName": "Департамент экономической политики и развития города Москвы",
+                "Name": "Департамент экономической политики и развития города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "User": {
+                "Id": 500522.0,
+                "Surname": "Кулагин",
+                "Firstname": "М",
+                "Patronymic": "М",
+                "FIO": "Кулагин М.М.",
+                "FullFIO": "Кулагин М М",
+                "Organization": {
+                    "Id": 70728.0,
+                    "ShortName": "Департамент строительства города Москвы",
+                    "Name": "Департамент строительства города Москвы",
+                    "Inn": null,
+                    "Kpp": null,
+                    "ParentId": null,
+                    "UBP": null,
+                    "EntityId": null
+                }
+            },
+            "Titles": [],
+            "DocNumber": null,
+            "RegulatoryDocTypeName": null,
+            "DocumentId": null,
+            "AwaitTitlesCount": 3,
+            "DocFiles": [
+                {
+                    "Id": 503113.0,
+                    "Name": null,
+                    "FileLink": "Letters\\dd293479-2f3b-4e36-a826-3fe1bc6be9a5\\05.12.2019_ДС-15-1_19-472.pdf",
+                    "DocumentId": null,
+                    "ContractId": null,
+                    "EntityId": null,
+                    "CreateDate": null,
+                    "DeleteDate": null,
+                    "Creator": null,
+                    "LetterId": 1005339.0,
+                    "Document": null,
+                    "Contract": null,
+                    "Letter": null
+                }
+            ],
+            "NameWithRegDate": "ДС-15-1/19-472 от 05.12.2019",
+            "HasSign": false
+        },
+        {
+            "Id": 1005335.0,
+            "Name": "ДС-15-1/19-470",
+            "Description": "О направлении изменений в Адресную инвестиционную программу города Москвы по Государственной программе \"Развитие коммунально-инженерной инфраструктуры и энергосбережение\"",
+            "RegDate": "2019-12-04T00:00:00",
+            "StartDate": null,
+            "EndDate": null,
+            "CreateDate": "2019-12-04T18:02:53",
+            "Status": {
+                "Id": 1.0,
+                "Name": "Находится на рассмотрении"
+            },
+            "Document": null,
+            "OrganizationIn": {
+                "Id": 70728.0,
+                "ShortName": "Департамент строительства города Москвы",
+                "Name": "Департамент строительства города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "OrganizationOut": {
+                "Id": 1.0,
+                "ShortName": "Департамент экономической политики и развития города Москвы",
+                "Name": "Департамент экономической политики и развития города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "User": {
+                "Id": 500933.0,
+                "Surname": "Кокоева",
+                "Firstname": "Элла",
+                "Patronymic": "Анатольевна",
+                "FIO": "Кокоева Э.А.",
+                "FullFIO": "Кокоева Элла А",
+                "Organization": {
+                    "Id": 70728.0,
+                    "ShortName": "Департамент строительства города Москвы",
+                    "Name": "Департамент строительства города Москвы",
+                    "Inn": null,
+                    "Kpp": null,
+                    "ParentId": null,
+                    "UBP": null,
+                    "EntityId": null
+                }
+            },
+            "Titles": [],
+            "DocNumber": null,
+            "RegulatoryDocTypeName": null,
+            "DocumentId": null,
+            "AwaitTitlesCount": 4,
+            "DocFiles": [
+                {
+                    "Id": 503110.0,
+                    "Name": null,
+                    "FileLink": "Letters\\3c9303ea-b5c0-4235-a4f2-6ac224d7ab69\\04.12.2019_ДС-15-1_19-470_Загрутдинов_Р.Р._Сибрин_А.Э..pdf",
+                    "DocumentId": null,
+                    "ContractId": null,
+                    "EntityId": null,
+                    "CreateDate": null,
+                    "DeleteDate": null,
+                    "Creator": null,
+                    "LetterId": 1005335.0,
+                    "Document": null,
+                    "Contract": null,
+                    "Letter": null
+                }
+            ],
+            "NameWithRegDate": "ДС-15-1/19-470 от 04.12.2019",
+            "HasSign": false
+        },
+        {
+            "Id": 1005333.0,
+            "Name": "ДС-15-1/19-468",
+            "Description": "Изменение по фонду",
+            "RegDate": "2019-12-04T00:00:00",
+            "StartDate": null,
+            "EndDate": null,
+            "CreateDate": "2019-12-04T15:34:08",
+            "Status": {
+                "Id": 1.0,
+                "Name": "Находится на рассмотрении"
+            },
+            "Document": null,
+            "OrganizationIn": {
+                "Id": 70728.0,
+                "ShortName": "Департамент строительства города Москвы",
+                "Name": "Департамент строительства города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "OrganizationOut": {
+                "Id": 1.0,
+                "ShortName": "Департамент экономической политики и развития города Москвы",
+                "Name": "Департамент экономической политики и развития города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "User": {
+                "Id": 500519.0,
+                "Surname": "Коваленко",
+                "Firstname": "Е",
+                "Patronymic": "И",
+                "FIO": "Коваленко Е.И.",
+                "FullFIO": "Коваленко Е И",
+                "Organization": {
+                    "Id": 70728.0,
+                    "ShortName": "Департамент строительства города Москвы",
+                    "Name": "Департамент строительства города Москвы",
+                    "Inn": null,
+                    "Kpp": null,
+                    "ParentId": null,
+                    "UBP": null,
+                    "EntityId": null
+                }
+            },
+            "Titles": [],
+            "DocNumber": null,
+            "RegulatoryDocTypeName": null,
+            "DocumentId": null,
+            "AwaitTitlesCount": 1,
+            "DocFiles": [
+                {
+                    "Id": 503108.0,
+                    "Name": null,
+                    "FileLink": "Letters\\af5d2700-dec8-46e6-a4a3-bf5da4b452ba\\04.12.2019_ДС-15-1_19-468_Загрутдинов_Р.Р._Сибрин_А.Э..pdf",
+                    "DocumentId": null,
+                    "ContractId": null,
+                    "EntityId": null,
+                    "CreateDate": null,
+                    "DeleteDate": null,
+                    "Creator": null,
+                    "LetterId": 1005333.0,
+                    "Document": null,
+                    "Contract": null,
+                    "Letter": null
+                }
+            ],
+            "NameWithRegDate": "ДС-15-1/19-468 от 04.12.2019",
+            "HasSign": false
+        },
+        {
+            "Id": 1005330.0,
+            "Name": "ДС-15-1/19-466",
+            "Description": "Изменения по фонду",
+            "RegDate": "2019-12-04T00:00:00",
+            "StartDate": null,
+            "EndDate": null,
+            "CreateDate": "2019-12-04T14:06:26",
+            "Status": {
+                "Id": 1.0,
+                "Name": "Находится на рассмотрении"
+            },
+            "Document": null,
+            "OrganizationIn": {
+                "Id": 70728.0,
+                "ShortName": "Департамент строительства города Москвы",
+                "Name": "Департамент строительства города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "OrganizationOut": {
+                "Id": 1.0,
+                "ShortName": "Департамент экономической политики и развития города Москвы",
+                "Name": "Департамент экономической политики и развития города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "User": {
+                "Id": 500519.0,
+                "Surname": "Коваленко",
+                "Firstname": "Е",
+                "Patronymic": "И",
+                "FIO": "Коваленко Е.И.",
+                "FullFIO": "Коваленко Е И",
+                "Organization": {
+                    "Id": 70728.0,
+                    "ShortName": "Департамент строительства города Москвы",
+                    "Name": "Департамент строительства города Москвы",
+                    "Inn": null,
+                    "Kpp": null,
+                    "ParentId": null,
+                    "UBP": null,
+                    "EntityId": null
+                }
+            },
+            "Titles": [],
+            "DocNumber": null,
+            "RegulatoryDocTypeName": null,
+            "DocumentId": null,
+            "AwaitTitlesCount": 3,
+            "DocFiles": [
+                {
+                    "Id": 503105.0,
+                    "Name": null,
+                    "FileLink": "Letters\\eac8b280-93e7-4ae8-9193-c37bf62e0eb1\\04.12.2019_ДС-15-1_19-466_Загрутдинов_Р.Р._Сибрин_А.Э..pdf",
+                    "DocumentId": null,
+                    "ContractId": null,
+                    "EntityId": null,
+                    "CreateDate": null,
+                    "DeleteDate": null,
+                    "Creator": null,
+                    "LetterId": 1005330.0,
+                    "Document": null,
+                    "Contract": null,
+                    "Letter": null
+                }
+            ],
+            "NameWithRegDate": "ДС-15-1/19-466 от 04.12.2019",
+            "HasSign": false
+        },
+        {
+            "Id": 1005325.0,
+            "Name": "дпр-3-8815/19.",
+            "Description": "Титульные списки в дополнение к ранее направленным",
+            "RegDate": "2019-12-02T00:00:00",
+            "StartDate": null,
+            "EndDate": null,
+            "CreateDate": "2019-12-02T16:27:18",
+            "Status": {
+                "Id": 2.0,
+                "Name": "Утвержден"
+            },
+            "Document": {
+                "DocumentType": null,
+                "DocNumber": "ДС-15-1/19-443",
+                "DocDate": "2019-11-18",
+                "RegulatoryDocType": {
+                    "ShortName": "GCO",
+                    "Id": 18.0,
+                    "Name": "Предложение государственного заказчика",
+                    "EntityId": 18.0,
+                    "CreateDate": "2014-11-14T21:25:15",
+                    "DeleteDate": null
+                },
+                "Notes": null,
+                "DocOrg": null,
+                "DocumentStatusId": null,
+                "DocStartDate": null,
+                "DocEndDate": null,
+                "DocOrgApprover": null,
+                "DocFiles": [],
+                "Id": 753671.0,
+                "Name": "Изменения в АИП по дорогам",
+                "EntityId": 753671.0,
+                "CreateDate": null,
+                "DeleteDate": null
+            },
+            "OrganizationIn": {
+                "Id": 1.0,
+                "ShortName": "Департамент экономической политики и развития города Москвы",
+                "Name": "Департамент экономической политики и развития города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "OrganizationOut": {
+                "Id": 68991.0,
+                "ShortName": "Департамент финансов",
+                "Name": "Департамент финансов",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "User": {
+                "Id": 500432.0,
+                "Surname": "Мякшев",
+                "Firstname": "Михаил",
+                "Patronymic": "Васильевич",
+                "FIO": "Мякшев М.В.",
+                "FullFIO": "Мякшев Михаил В",
+                "Organization": {
+                    "Id": 1.0,
+                    "ShortName": "Департамент экономической политики и развития города Москвы",
+                    "Name": "Департамент экономической политики и развития города Москвы",
+                    "Inn": null,
+                    "Kpp": null,
+                    "ParentId": null,
+                    "UBP": null,
+                    "EntityId": null
+                }
+            },
+            "Titles": [],
+            "DocNumber": "ДС-15-1/19-443",
+            "RegulatoryDocTypeName": "Предложение государственного заказчика",
+            "DocumentId": 753671.0,
+            "AwaitTitlesCount": 3,
+            "DocFiles": null,
+            "NameWithRegDate": "дпр-3-8815/19. от 02.12.2019",
+            "HasSign": false
+        },
+        {
+            "Id": 1005326.0,
+            "Name": "ДС-15-1/19-463",
+            "Description": "Изменения по ГП Град снятие -0,9 млн. руб. на текущие.",
+            "RegDate": "2019-12-02T00:00:00",
+            "StartDate": null,
+            "EndDate": null,
+            "CreateDate": "2019-12-02T16:49:43",
+            "Status": {
+                "Id": 1.0,
+                "Name": "Находится на рассмотрении"
+            },
+            "Document": null,
+            "OrganizationIn": {
+                "Id": 70728.0,
+                "ShortName": "Департамент строительства города Москвы",
+                "Name": "Департамент строительства города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "OrganizationOut": {
+                "Id": 1.0,
+                "ShortName": "Департамент экономической политики и развития города Москвы",
+                "Name": "Департамент экономической политики и развития города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "User": {
+                "Id": 500651.0,
+                "Surname": "Лаврухина",
+                "Firstname": "И",
+                "Patronymic": "В",
+                "FIO": "Лаврухина И.В.",
+                "FullFIO": "Лаврухина И В",
+                "Organization": {
+                    "Id": 70728.0,
+                    "ShortName": "Департамент строительства города Москвы",
+                    "Name": "Департамент строительства города Москвы",
+                    "Inn": null,
+                    "Kpp": null,
+                    "ParentId": null,
+                    "UBP": null,
+                    "EntityId": null
+                }
+            },
+            "Titles": [],
+            "DocNumber": null,
+            "RegulatoryDocTypeName": null,
+            "DocumentId": null,
+            "AwaitTitlesCount": 1,
+            "DocFiles": [
+                {
+                    "Id": 503102.0,
+                    "Name": null,
+                    "FileLink": "Letters\\1a424101-6b16-4883-84dc-8457fec5bf6c\\02.12.2019_ДС-15-1_19-463.pdf",
+                    "DocumentId": null,
+                    "ContractId": null,
+                    "EntityId": null,
+                    "CreateDate": null,
+                    "DeleteDate": null,
+                    "Creator": null,
+                    "LetterId": 1005326.0,
+                    "Document": null,
+                    "Contract": null,
+                    "Letter": null
+                }
+            ],
+            "NameWithRegDate": "ДС-15-1/19-463 от 02.12.2019",
+            "HasSign": false
+        },
+        {
+            "Id": 1005316.0,
+            "Name": "ДПР-3-9057/19",
+            "Description": "внесение изменений по ГП Жилище под приказ 95",
+            "RegDate": "2019-11-28T00:00:00",
+            "StartDate": null,
+            "EndDate": null,
+            "CreateDate": "2019-11-28T16:55:16",
+            "Status": {
+                "Id": 2.0,
+                "Name": "Утвержден"
+            },
+            "Document": {
+                "DocumentType": null,
+                "DocNumber": "ДС-15-1/19-449",
+                "DocDate": "2019-11-25",
+                "RegulatoryDocType": {
+                    "ShortName": "GCO",
+                    "Id": 18.0,
+                    "Name": "Предложение государственного заказчика",
+                    "EntityId": 18.0,
+                    "CreateDate": "2014-11-14T21:25:15",
+                    "DeleteDate": null
+                },
+                "Notes": null,
+                "DocOrg": null,
+                "DocumentStatusId": null,
+                "DocStartDate": null,
+                "DocEndDate": null,
+                "DocOrgApprover": null,
+                "DocFiles": [],
+                "Id": 753692.0,
+                "Name": "Изменения по ГП Жилье вкл. 7 тит., увел.под ПСС, компенс.",
+                "EntityId": 753692.0,
+                "CreateDate": null,
+                "DeleteDate": null
+            },
+            "OrganizationIn": {
+                "Id": 1.0,
+                "ShortName": "Департамент экономической политики и развития города Москвы",
+                "Name": "Департамент экономической политики и развития города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "OrganizationOut": {
+                "Id": 68991.0,
+                "ShortName": "Департамент финансов",
+                "Name": "Департамент финансов",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "User": {
+                "Id": 500848.0,
+                "Surname": "Аристова",
+                "Firstname": "Екатерина",
+                "Patronymic": "Михайловна",
+                "FIO": "Аристова Е.М.",
+                "FullFIO": "Аристова Екатерина М",
+                "Organization": {
+                    "Id": 1.0,
+                    "ShortName": "Департамент экономической политики и развития города Москвы",
+                    "Name": "Департамент экономической политики и развития города Москвы",
+                    "Inn": null,
+                    "Kpp": null,
+                    "ParentId": null,
+                    "UBP": null,
+                    "EntityId": null
+                }
+            },
+            "Titles": [],
+            "DocNumber": "ДС-15-1/19-449",
+            "RegulatoryDocTypeName": "Предложение государственного заказчика",
+            "DocumentId": 753692.0,
+            "AwaitTitlesCount": 16,
+            "DocFiles": [
+                {
+                    "Id": 503094.0,
+                    "Name": null,
+                    "FileLink": "Letters\\35018db6-da0d-4a98-97e3-b00d97797cf5\\28.11.2019_ДПР-3-9057_19_Сибрин_А.Э._Зяббарова_Е.Ю..pdf",
+                    "DocumentId": null,
+                    "ContractId": null,
+                    "EntityId": null,
+                    "CreateDate": null,
+                    "DeleteDate": null,
+                    "Creator": null,
+                    "LetterId": 1005316.0,
+                    "Document": null,
+                    "Contract": null,
+                    "Letter": null
+                }
+            ],
+            "NameWithRegDate": "ДПР-3-9057/19 от 28.11.2019",
+            "HasSign": false
+        },
+        {
+            "Id": 1005311.0,
+            "Name": "ДРНТ-2-7637/9",
+            "Description": "Дороги приказ №343 от 27.11.2019",
+            "RegDate": "2019-11-28T00:00:00",
+            "StartDate": null,
+            "EndDate": null,
+            "CreateDate": "2019-11-28T15:46:13",
+            "Status": {
+                "Id": 1.0,
+                "Name": "Находится на рассмотрении"
+            },
+            "Document": null,
+            "OrganizationIn": {
+                "Id": 81596.0,
+                "ShortName": "Департамент развития новых территорий города Москвы",
+                "Name": "Департамент развития новых территорий города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "OrganizationOut": {
+                "Id": 1.0,
+                "ShortName": "Департамент экономической политики и развития города Москвы",
+                "Name": "Департамент экономической политики и развития города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "User": {
+                "Id": 500928.0,
+                "Surname": "Скутельник",
+                "Firstname": "Дойна",
+                "Patronymic": "Олеговна",
+                "FIO": "Скутельник Д.О.",
+                "FullFIO": "Скутельник Дойна О",
+                "Organization": {
+                    "Id": 81596.0,
+                    "ShortName": "Департамент развития новых территорий города Москвы",
+                    "Name": "Департамент развития новых территорий города Москвы",
+                    "Inn": null,
+                    "Kpp": null,
+                    "ParentId": null,
+                    "UBP": null,
+                    "EntityId": null
+                }
+            },
+            "Titles": [],
+            "DocNumber": null,
+            "RegulatoryDocTypeName": null,
+            "DocumentId": null,
+            "AwaitTitlesCount": 5,
+            "DocFiles": null,
+            "NameWithRegDate": "ДРНТ-2-7637/9 от 28.11.2019",
+            "HasSign": false
+        },
+        {
+            "Id": 1005309.0,
+            "Name": "ДПР-3-7477/19.",
+            "Description": "Корректировка прмечаний по титулу 701081 ДГИ в соответствии с представленными ДГИ данными по ГК",
+            "RegDate": "2019-11-28T00:00:00",
+            "StartDate": null,
+            "EndDate": null,
+            "CreateDate": "2019-11-28T14:50:21",
+            "Status": {
+                "Id": 2.0,
+                "Name": "Утвержден"
+            },
+            "Document": null,
+            "OrganizationIn": {
+                "Id": 1.0,
+                "ShortName": "Департамент экономической политики и развития города Москвы",
+                "Name": "Департамент экономической политики и развития города Москвы",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "OrganizationOut": {
+                "Id": 68991.0,
+                "ShortName": "Департамент финансов",
+                "Name": "Департамент финансов",
+                "Inn": null,
+                "Kpp": null,
+                "ParentId": null,
+                "UBP": null,
+                "EntityId": null
+            },
+            "User": {
+                "Id": 500416.0,
+                "Surname": "Цыганенко",
+                "Firstname": "Евгения ",
+                "Patronymic": "Сергеевна",
+                "FIO": "Цыганенко Е.С.",
+                "FullFIO": "Цыганенко Евгения  С",
+                "Organization": {
+                    "Id": 1.0,
+                    "ShortName": "Департамент экономической политики и развития города Москвы",
+                    "Name": "Департамент экономической политики и развития города Москвы",
+                    "Inn": null,
+                    "Kpp": null,
+                    "ParentId": null,
+                    "UBP": null,
+                    "EntityId": null
+                }
+            },
+            "Titles": [],
+            "DocNumber": null,
+            "RegulatoryDocTypeName": null,
+            "DocumentId": null,
+            "AwaitTitlesCount": 1,
+            "DocFiles": [
+                {
+                    "Id": 503091.0,
+                    "Name": null,
+                    "FileLink": "Letters\\aa4e6a8d-f07e-4d9a-9e94-9fe2e2d730d7\\08.11.2019_ДПР-3-7477_19_Федоров_П.Д._за_Сибрина_А.Э.__Зяббарова_Е.Ю..pdf",
+                    "DocumentId": null,
+                    "ContractId": null,
+                    "EntityId": null,
+                    "CreateDate": null,
+                    "DeleteDate": null,
+                    "Creator": null,
+                    "LetterId": 1005309.0,
+                    "Document": null,
+                    "Contract": null,
+                    "Letter": null
+                }
+            ],
+            "NameWithRegDate": "ДПР-3-7477/19. от 28.11.2019",
+            "HasSign": false
+        }
+    ]
+}
