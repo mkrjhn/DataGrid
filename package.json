@@ -5,9 +5,16 @@
   "version": "0.1.0",
   "private": true,
   "license": "MIT",
+  "main": "dist/data-grid.umd.min.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mkrjhn/DataGrid.git"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
+    "deploy": "vue-cli-service build --target lib --name data-grid src/components/DataGrid/index.js",
+    "deploy:analyze": "vue-cli-service build --report --target lib --inline-vue --name data-grid src/components/DataGrid/index.js",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
@@ -22,8 +29,10 @@
     "@vue/cli-service": "^4.1.0",
     "@vue/eslint-config-airbnb": "^4.0.0",
     "babel-eslint": "^10.0.3",
+    "babel-plugin-component": "^1.1.1",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
-    "vue-template-compiler": "^2.6.10"
+    "vue-template-compiler": "^2.6.10",
+    "webpack-node-externals": "^1.7.2"
   }
 }

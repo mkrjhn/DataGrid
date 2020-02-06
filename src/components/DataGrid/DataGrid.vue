@@ -49,8 +49,9 @@
 <script>
 import 'element-ui/lib/theme-chalk/table.css';
 import 'element-ui/lib/theme-chalk/input.css';
-import xorBy from 'lodash/xorBy';
-import debounce from 'lodash/debounce';
+
+import { xorBy, debounce } from 'lodash';
+
 import ElTable from 'element-ui/lib/table';
 import ElInput from 'element-ui/lib/input';
 import DataGridColumn from './DataGridColumn';

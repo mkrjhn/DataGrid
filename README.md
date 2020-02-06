@@ -18,6 +18,11 @@ yarn run serve
 yarn run build
 ```
 
+### Deploys for lib production
+```
+yarn run deploy
+```
+
 ### Run your tests
 ```
 yarn run test

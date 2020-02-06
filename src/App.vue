@@ -32,7 +32,7 @@
 </template>
 
 <script>
-import DataGrid from './components/DataGrid';
+import { DataGrid } from './components/DataGrid';
 
 const DATA = require('@/mocks/data-grid.json');
 
